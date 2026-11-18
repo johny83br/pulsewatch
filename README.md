@@ -304,15 +304,15 @@ Prometheus, Grafana e OpenTelemetry serão utilizados na evolução da infraestr
 ### Fase 1: Fundação
 - [x] Criar repositório.
 - [x] Definir estrutura do monorepositório.
-- [ ] Configurar Docker Compose.
-- [ ] Configurar PostgreSQL.
+- [x] Configurar Docker Compose.
+- [x] Configurar PostgreSQL.
 - [x] Preparar documentação.
 
 ### Fase 2: Backend
 - [ ] Criar aplicação Laravel.
 - [ ] Implementar autenticação.
 - [ ] Criar gestão de monitores.
-- [ ] Implementar migrations.
+- [x] Implementar migrations.
 - [ ] Documentar endpoints.
 
 ### Fase 3: Monitoring Engine
