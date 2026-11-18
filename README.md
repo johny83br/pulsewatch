@@ -302,11 +302,11 @@ Prometheus, Grafana e OpenTelemetry serão utilizados na evolução da infraestr
 ## 12. Roadmap
 
 ### Fase 1: Fundação
-- [ ] Criar repositório.
-- [ ] Definir estrutura do monorepositório.
+- [x] Criar repositório.
+- [x] Definir estrutura do monorepositório.
 - [ ] Configurar Docker Compose.
 - [ ] Configurar PostgreSQL.
-- [ ] Preparar documentação.
+- [x] Preparar documentação.
 
 ### Fase 2: Backend
 - [ ] Criar aplicação Laravel.
